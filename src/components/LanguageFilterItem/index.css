@@ -1,0 +1,26 @@
+.button {
+  font-family: 'Roboto';
+  font-size: 16px;
+  border: none;
+  background-color: transparent;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+}
+
+.styled-button {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 12px;
+  font-size: 14px;
+  padding: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  text-align: center;
+}
+
+.language-item {
+  width: 100px;
+  text-align: center;
+}
